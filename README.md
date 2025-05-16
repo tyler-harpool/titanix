@@ -1,4 +1,4 @@
-# Ferronix
+# Titanix
 
 A streamlined Rust application with a reproducible development environment using Nix Flakes. Ferronix combines the power of Rust (ferrous/iron) with Nix for a reliable, consistent, and reproducible development experience across platforms.
 
